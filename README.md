@@ -1,12 +1,11 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4100&lines=Hi+There!+👋;+I'm+Thamrong+Phiriyasiriphaisan!" />
-</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thamrong Phiriyasiriphaisan
+===================================================================================================================================================
 
 Hardware Engineer
 -----------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [thamrongphaisan@gmail.com](mailto:thamrongphaisan@gmail.com)
+* ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
 * 🧠  I'm learning AI and Face-Recognition
 
 <a href="https://www.github.com/Antkungs" target="_blank" rel="noreferrer"><img
@@ -33,3 +32,10 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 <a href="http://www.github.com/Antkungs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Antkungs&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Antkungs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antkungs&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
