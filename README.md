@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋; +My name is+Thamrong+Phiriyasiriphaisan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamrong+Phiriyasiriphaisan!;" />
 </h1>
 ============================================================================================
 
@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 
 ### Skill - Languages
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,matlab,nodejs,php,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,matlab,nodejs,php&perline=3)](https://skillicons.dev)
 </p>
 
 ###
