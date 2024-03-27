@@ -4,11 +4,10 @@
 
 <h3 align="left">🖥️ Hardware Engineer 🖥️</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="36" height="36" alt="GitHub Profile Image" />
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
 * 🧠  I'm learning AI and Face-Recognition
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="36" height="36" alt="GitHub Profile Image" />
+* 
 <a href="https://www.github.com/Antkungs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
