@@ -1,8 +1,11 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamrong!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thamrong+Phiriyasiriphaisan!;" />
 </h1>
-[]Hardware Engineer
+===================================================================================================================================================
+
+Hardware Engineer
 -----------------
+
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thamrongphaisan@gmail.com](mailto:thamrongphaisan@gmail.com)
@@ -35,3 +38,11 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 <a href="http://www.github.com/Antkungs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Antkungs&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Antkungs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antkungs&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
