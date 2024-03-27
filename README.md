@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================================
 
 Hardware Engineer
+
 -----------------
 
 * 🌍  I'm based in Thailand
@@ -33,9 +34,11 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 
 <a href="https://github.com/Antkungs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antkungs&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+-----------------
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
+-----------------
