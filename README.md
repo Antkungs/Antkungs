@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Thamrong!;" />
 </h1>
 
-<h3 align="left">🖥️ Hardware Engineer</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="GitHub Profile Image" />
+<h3 align="left">🖥️ Hardware Engineer <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="36" height="36" alt="GitHub Profile Image " /></h3>
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
