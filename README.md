@@ -6,8 +6,6 @@
 
 <h3 align="left">🖥️ Hardware Engineer</h3>
 
-<br/>
-
 -----------------
 
 * 🌍  I'm based in Thailand
