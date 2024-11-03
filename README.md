@@ -6,7 +6,7 @@
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
-* 🧠  I'm learning AI and Face-Recognition
+* 🧠  I'm learning AI and Back-End
   
 <a href="https://www.github.com/Antkungs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
