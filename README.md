@@ -15,8 +15,6 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 
 # My Tech Stack 💻
 
-Welcome to the repository! Below is a list of the technologies and tools I use in my projects. I love working with both hardware and software, and here's a breakdown of the tech stack I enjoy using.
-
 ## Hardware
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Esp](https://img.shields.io/badge/esp-%23323330.svg?style=for-the-badge&logo=esp&logoColor=%23F7DF1E) 
 
