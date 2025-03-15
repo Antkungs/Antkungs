@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 -----------------
 <div align="center">
   <br>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+    ![](https://raw.githubusercontent.com/Antkungs/Antkungs/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
