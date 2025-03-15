@@ -3,20 +3,9 @@
 </h1>
 
 
-<div align="left">
-
-<h3 align="left">
-  View :
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://profile-counter.glitch.me/Antkungs/count.svg?" />
-  </div>
-</h3>
-
-</div>
-
 -----------------
 
-<h3 align="left">🖥️ Web Developer 🖥️</h3>
+<h3 align="left">🖥️ Web Developer  <img src="https://profile-counter.glitch.me/Antkungs/count.svg?" />🖥️</h3>
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
