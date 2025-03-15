@@ -5,7 +5,13 @@
 
 <div align="left">
 
-   <h3 align="left">View : <img src="https://profile-counter.glitch.me/Antkungs/count.svg?"  /></h3>
+<h3 align="left">
+  View :
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://profile-counter.glitch.me/Antkungs/count.svg?" />
+  </div>
+</h3>
+
 </div>
 
 -----------------
