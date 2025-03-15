@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Thamrong!;" />
 </h1>
 
------------------
 
 <div align="left">
+ <h4 align="left">View : </h4>
   <img src="https://profile-counter.glitch.me/Antkungs/count.svg?"  />
 </div>
 
