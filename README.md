@@ -14,7 +14,7 @@
 
 -----------------
 
-# My Tech Stack 💻
+<h3 align="left">My Tech Stack 💻</h3>
 
 <h4 align="left">Hardware</h4>
 
