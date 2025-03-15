@@ -48,8 +48,5 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 <div align="center">
   <br>
     <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/output/snake.svg" alt="Snake animation" />
-
-###
-
   <br/><br/><br/>
 </div>
