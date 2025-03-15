@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-    <h4> 👀<img src="https://profile-counter.glitch.me/Antkungs/count.svg?" /> 👀</h4>
+    <h4 align="center"> 👀<img src="https://profile-counter.glitch.me/Antkungs/count.svg?" /> 👀</h4>
 </div>
 
 -----------------
