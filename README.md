@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 -----------------
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="[https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" />
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
