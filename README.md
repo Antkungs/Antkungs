@@ -1,10 +1,12 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Thamrong!;" />
-</h1>
-
 <div>
     <h4 align="center"> 👀<img src="https://profile-counter.glitch.me/Antkungs/count.svg?" /> 👀</h4>
 </div>
+
+-----------------
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Thamrong!;" />
+</h1>
 
 -----------------
 
