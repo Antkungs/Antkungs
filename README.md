@@ -3,15 +3,17 @@
 </h1>
 
 <h3 align="left">🖥️ Hardware Engineer 🖥️</h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Antkungs/count.svg?"  />
-</div>
+
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
 * 🧠  I'm learning AI and Back-End
   
 <a href="https://www.github.com/Antkungs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Antkungs/count.svg?"  />
+</div>
 
 -----------------
 
@@ -39,7 +41,7 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 
 -----------------
 
-<b>My GitHub Stats</b>
+<h3 align="left">My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Antkungs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -49,12 +51,5 @@ src="https://img.shields.io/github/followers/Antkungs?logo=github&style=for-the-
 </div>
 
 -----------------
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/pacman-contribution-graph.svg">
-</picture>
-
-
 
 
