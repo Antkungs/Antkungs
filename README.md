@@ -5,7 +5,7 @@
 
 <div align="left">
 
-   <h4 align="left">View : <img src="https://profile-counter.glitch.me/Antkungs/count.svg?"  /></h4>
+   <h3 align="left">View : <img src="https://profile-counter.glitch.me/Antkungs/count.svg?"  /></h3>
 </div>
 
 -----------------
