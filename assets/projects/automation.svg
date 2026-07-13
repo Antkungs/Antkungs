@@ -13,11 +13,25 @@
   <circle cx="412" cy="28" r="3" fill="#ff2079">
     <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="26" y="56" font-size="32">🕷️</text>
-  <text x="74" y="52" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#ffffff">Web Automation Pipelines</text>
-  <rect x="74" y="62" height="2.5" rx="1.25" fill="url(#g4)" width="0">
-    <animate attributeName="width" values="0;350;350;0" dur="8.5s" repeatCount="indefinite"/>
+  
+  <g transform="translate(34,52)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+      <circle r="10" fill="none" stroke="#50fa7b" stroke-width="2.4"/><rect x="-1.6" y="-15" width="3.2" height="6" rx="1" fill="#50fa7b" transform="rotate(0)"/><rect x="-1.6" y="-15" width="3.2" height="6" rx="1" fill="#50fa7b" transform="rotate(60)"/><rect x="-1.6" y="-15" width="3.2" height="6" rx="1" fill="#50fa7b" transform="rotate(120)"/><rect x="-1.6" y="-15" width="3.2" height="6" rx="1" fill="#50fa7b" transform="rotate(180)"/><rect x="-1.6" y="-15" width="3.2" height="6" rx="1" fill="#50fa7b" transform="rotate(240)"/><rect x="-1.6" y="-15" width="3.2" height="6" rx="1" fill="#50fa7b" transform="rotate(300)"/>
+      <circle r="3" fill="#50fa7b"/>
+    </g>
+  </g>
+  <g transform="translate(56,34)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+      <circle r="7" fill="none" stroke="#ff2079" stroke-width="2.2"/><rect x="-1.3" y="-11" width="2.6" height="5" rx="1" fill="#ff2079" transform="rotate(30)"/><rect x="-1.3" y="-11" width="2.6" height="5" rx="1" fill="#ff2079" transform="rotate(90)"/><rect x="-1.3" y="-11" width="2.6" height="5" rx="1" fill="#ff2079" transform="rotate(150)"/><rect x="-1.3" y="-11" width="2.6" height="5" rx="1" fill="#ff2079" transform="rotate(210)"/><rect x="-1.3" y="-11" width="2.6" height="5" rx="1" fill="#ff2079" transform="rotate(270)"/><rect x="-1.3" y="-11" width="2.6" height="5" rx="1" fill="#ff2079" transform="rotate(330)"/>
+      <circle r="2.4" fill="#ff2079"/>
+    </g>
+  </g>
+  <text x="86" y="52" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#ffffff">Web Automation Pipelines</text>
+  <rect x="86" y="62" height="2.5" rx="1.25" fill="url(#g4)" width="0">
+    <animate attributeName="width" values="0;338;338;0" dur="8.5s" repeatCount="indefinite"/>
   </rect>
-  <text x="26" y="98" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" fill="#8b949e">Scrape → clean → Google Sheets, fully scheduled</text>
+  <text x="26" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" fill="#8b949e">Scrape → clean → Google Sheets, fully scheduled</text>
   <rect x="26" y="124" width="72" height="22" rx="11" fill="#50fa7b1a" stroke="#50fa7b" stroke-width="1"/><text x="62.0" y="139" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#50fa7b">Selenium</text><rect x="106" y="124" width="58" height="22" rx="11" fill="#ff20791a" stroke="#ff2079" stroke-width="1"/><text x="135.0" y="139" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#ff2079">Python</text><rect x="172" y="124" width="38" height="22" rx="11" fill="#00f0ff1a" stroke="#00f0ff" stroke-width="1"/><text x="191.0" y="139" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#00f0ff">Tor</text>
 </svg>

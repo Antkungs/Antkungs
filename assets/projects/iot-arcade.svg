@@ -13,11 +13,22 @@
   <circle cx="412" cy="28" r="3" fill="#00f0ff">
     <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="26" y="56" font-size="32">🕹️</text>
-  <text x="74" y="52" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#ffffff">IoT Arcade Machine</text>
-  <rect x="74" y="62" height="2.5" rx="1.25" fill="url(#g5)" width="0">
-    <animate attributeName="width" values="0;350;350;0" dur="9.5s" repeatCount="indefinite"/>
+  
+  <g transform="translate(20,26)">
+    <ellipse cx="16" cy="34" rx="15" ry="5" fill="none" stroke="#00f0ff" stroke-width="2.2"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-14 16 32;14 16 32;-14 16 32" dur="2.6s" repeatCount="indefinite"/>
+      <line x1="16" y1="32" x2="16" y2="10" stroke="#ff2079" stroke-width="3.2" stroke-linecap="round"/>
+      <circle cx="16" cy="7" r="5.5" fill="#ff2079"/>
+    </g>
+    <circle cx="30" cy="30" r="2.6" fill="#a742f5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="86" y="52" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#ffffff">IoT Arcade Machine</text>
+  <rect x="86" y="62" height="2.5" rx="1.25" fill="url(#g5)" width="0">
+    <animate attributeName="width" values="0;338;338;0" dur="9.5s" repeatCount="indefinite"/>
   </rect>
-  <text x="26" y="98" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" fill="#8b949e">Physical free-kick game on Raspberry Pi</text>
+  <text x="26" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" fill="#8b949e">Physical free-kick game on Raspberry Pi</text>
   <rect x="26" y="124" width="38" height="22" rx="11" fill="#ff20791a" stroke="#ff2079" stroke-width="1"/><text x="45.0" y="139" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#ff2079">RPi</text><rect x="72" y="124" width="72" height="22" rx="11" fill="#00f0ff1a" stroke="#00f0ff" stroke-width="1"/><text x="108.0" y="139" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#00f0ff">MCP23017</text><rect x="152" y="124" width="58" height="22" rx="11" fill="#a742f51a" stroke="#a742f5" stroke-width="1"/><text x="181.0" y="139" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#a742f5">PyGame</text>
 </svg>
