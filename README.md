@@ -39,7 +39,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/marketplace.svg?v=2" width="49%" alt="B2B Marketplace Platform"/>
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/payment-gateway.svg?v=2" width="49%" alt="QR Payment Gateway"/>
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/earthquake.svg?v=2" width="49%" alt="Earthquake Early-Warning"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/earthquake.svg?v=3" width="49%" alt="Earthquake Early-Warning"/>
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ai-experiments.svg?v=2" width="49%" alt="AI Experiments"/>
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/automation.svg?v=2" width="49%" alt="Web Automation Pipelines"/>
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/iot-arcade.svg?v=2" width="49%" alt="IoT Arcade Machine"/>
