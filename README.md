@@ -1,62 +1,141 @@
+<!-- 🌊 Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Antkungs&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descAlign=50" width="100%"/>
 
 <h1 align="center">
-<div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Thamrong!;" />
-</div>
-
-    
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&pause=800&color=BD93F9&lines=Hi+There!+%F0%9F%91%8B;I'm+Ant!;Full-Stack+Developer+%F0%9F%9A%80;IoT+%26+AI+Explorer+%F0%9F%A4%96" />
 </h1>
 
-<h3 align="left">🖥️ Web Developer🖥️</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Antkungs&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://github.com/Antkungs?tab=followers"><img src="https://img.shields.io/github/followers/Antkungs?style=for-the-badge&logo=github&color=6f42c1" alt="Followers"/></a>
+  <a href="mailto:thamrongphaisan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [HERE](mailto:thamrongphaisan@gmail.com)
-* 🧠  I'm learning AI and Back-End
-  
------------------
+<!-- ⚡ Quick Stack — icon row -->
+<p align="center">
+  <a href="#-my-tech-stack">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,python,fastapi,cs,dotnet,postgres,redis,docker,raspberrypi,arduino&perline=15" alt="Quick stack"/>
+  </a>
+</p>
 
-<h3 align="left">My Tech Stack 💻</h3>
+## 🐜 About Me
 
-<h4 align="left">Hardware</h4>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="coding gif"/>
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Esp](https://img.shields.io/badge/esp-%23323330.svg?style=for-the-badge&logo=esp&logoColor=%23F7DF1E) 
+* 🌍  I'm based in **Thailand** 🇹🇭
+* 💼  Full-Stack Developer — building things end-to-end, from **PCB to Production**
+* 🧠  Currently deep-diving into **AI-assisted development** & **Back-End architecture**
+* ⚡  Fun fact: I talk to my AI pair-programmer more than to humans 🤖
+* ✉️  Contact me [HERE](mailto:thamrongphaisan@gmail.com)
 
-<h4 align="left">Language</h4>
+<br clear="right"/>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h4 align="left">Web Programming</h4>
+## 🚀 What I've Been Building
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+> Real-world projects I've shipped or hacked on recently 👇
 
-<h4 align="left">Framework</h4>
+| | Project | Stack |
+|---|---------|-------|
+| 🛒 | **B2B Marketplace Platform** — quotation → bidding → escrow payment flow, 4 portals | `Spring Modulith` `Java 21` `Next.js 15` `PostgreSQL` `Redis` |
+| 💳 | **[QR Payment Gateway](https://github.com/Antkungs/ffp-gateway)** — stateless payment-gateway microservice | `Spring Boot` `Java 21` `Docker` |
+| 🌏 | **Earthquake Early-Warning Dashboard** — real-time sensor feed & alert map | `Next.js` `WebSocket` `Leaflet` |
+| 🤖 | **AI Experiments** — face recognition, Thai document OCR, trading-bot backtesting | `Python` `OpenCV` `Azure AI` |
+| 🕷️ | **Web Automation Pipelines** — scraping → clean → Google Sheets, fully scheduled | `Selenium` `Python` |
+| 🕹️ | **IoT Arcade Machine** — physical free-kick game on Raspberry Pi | `RPi` `MCP23017` `PyGame` |
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SprintBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h4 align="left">Database</h4>
+## 💻 My Tech Stack
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h4>⚙️ Hardware & IoT</h4>
 
-<h4 align="left">Devops</h4>
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<h4>🧩 Languages</h4>
 
-<h4 align="left">Tools & Platforms</h4>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Java](https://img.shields.io/badge/java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Postman](https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
+<h4>🌐 Front-End</h4>
 
------------------
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/react_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-<h3 align="center">My GitHub Stats</h3>
+<h4>🏗️ Back-End & Frameworks</h4>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+
+<h4>🗄️ Database & Cache</h4>
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<h4>🐳 DevOps & Automation</h4>
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+<h4>🤖 AI & Tools</h4>
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)  ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📌 Featured Repo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antkungs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antkungs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Antkungs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://github.com/Antkungs/ffp-gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antkungs&repo=ffp-gateway&theme=dracula&hide_border=false" alt="ffp-gateway"/>
+  </a>
 </div>
 
------------------
+## 📊 My GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Antkungs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antkungs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="languages graph"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Antkungs&theme=dracula&hide_border=false" height="170" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Antkungs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antkungs&theme=dracula&hide_border=false&area=true" width="95%" alt="activity graph"/>
+</div>
+
+## 🏔️ 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3d contribution graph"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antkungs/Antkungs/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antkungs/Antkungs/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Antkungs/Antkungs/output/github-snake.svg"/>
+  </picture>
+</div>
+
+## 💬 Random Dev Quote & Joke
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="dev quote"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=false" alt="dev joke"/>
+</div>
+
+<div align="center">
+  <h3>🐜 Thanks for visiting! เดินเงียบๆ สร้างไปทีละก้าว 🐜</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120" alt="thanks"/>
+</div>
+
+<!-- 🌊 Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
