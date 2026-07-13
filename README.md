@@ -37,12 +37,12 @@
 > Real-world projects I've shipped or hacked on recently 👇
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/marketplace.svg" width="49%" alt="B2B Marketplace Platform"/>
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/payment-gateway.svg" width="49%" alt="QR Payment Gateway"/>
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/earthquake.svg" width="49%" alt="Earthquake Early-Warning"/>
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ai-experiments.svg" width="49%" alt="AI Experiments"/>
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/automation.svg" width="49%" alt="Web Automation Pipelines"/>
-  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/iot-arcade.svg" width="49%" alt="IoT Arcade Machine"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/marketplace.svg?v=2" width="49%" alt="B2B Marketplace Platform"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/payment-gateway.svg?v=2" width="49%" alt="QR Payment Gateway"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/earthquake.svg?v=2" width="49%" alt="Earthquake Early-Warning"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ai-experiments.svg?v=2" width="49%" alt="AI Experiments"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/automation.svg?v=2" width="49%" alt="Web Automation Pipelines"/>
+  <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/iot-arcade.svg?v=2" width="49%" alt="IoT Arcade Machine"/>
 </div>
 
 ## 🧪 Example Projects
@@ -50,12 +50,12 @@
 > ตัวอย่างโปรเจกต์ open-source — **กดการ์ดเพื่อเข้าไปดูโค้ดได้เลย** 👇
 
 <div align="center">
-  <a href="https://github.com/Antkungs/ai-engineering-lstm"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-lstm.svg" width="49%" alt="LSTM Predictive Maintenance"/></a>
-  <a href="https://github.com/Antkungs/project_cat_feeder"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-cat-feeder.svg" width="49%" alt="Smart Cat Feeder"/></a>
-  <a href="https://github.com/Antkungs/ACS712_ESP32"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-esp32.svg" width="49%" alt="ESP32 Power Monitor"/></a>
-  <a href="https://github.com/Antkungs/Blur-Face"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-blur-face.svg" width="49%" alt="Blur-Face"/></a>
-  <a href="https://github.com/Antkungs/Detect-Cat"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-detect-cat.svg" width="49%" alt="Detect-Cat"/></a>
-  <a href="https://github.com/Antkungs/Warehouse-Management"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-warehouse.svg" width="49%" alt="Warehouse Management"/></a>
+  <a href="https://github.com/Antkungs/ai-engineering-lstm"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-lstm.svg?v=2" width="49%" alt="LSTM Predictive Maintenance"/></a>
+  <a href="https://github.com/Antkungs/project_cat_feeder"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-cat-feeder.svg?v=2" width="49%" alt="Smart Cat Feeder"/></a>
+  <a href="https://github.com/Antkungs/ACS712_ESP32"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-esp32.svg?v=2" width="49%" alt="ESP32 Power Monitor"/></a>
+  <a href="https://github.com/Antkungs/Blur-Face"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-blur-face.svg?v=2" width="49%" alt="Blur-Face"/></a>
+  <a href="https://github.com/Antkungs/Detect-Cat"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-detect-cat.svg?v=2" width="49%" alt="Detect-Cat"/></a>
+  <a href="https://github.com/Antkungs/Warehouse-Management"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ex-warehouse.svg?v=2" width="49%" alt="Warehouse Management"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider">
