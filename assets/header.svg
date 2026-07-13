@@ -32,8 +32,17 @@
   <circle cx="450" cy="200" r="1.4" fill="#00f0ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
   <circle cx="120" cy="120" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
 
-  <!-- name -->
-  <text x="450" y="108" text-anchor="middle" font-family="'Segoe UI Black','Arial Black',sans-serif" font-weight="900" font-size="68" letter-spacing="8" fill="url(#neon)" filter="url(#glow)">ANTKUNGS</text>
+  <!-- name — 3D extruded -->
+  <g font-family="'Segoe UI Black','Arial Black',sans-serif" font-weight="900" font-size="68" text-anchor="middle" letter-spacing="8">
+    <text x="458" y="116" fill="#000000" opacity="0.55">ANTKUNGS</text>
+    <text x="456" y="114" fill="#151a2e">ANTKUNGS</text>
+    <text x="455" y="113" fill="#1c2340">ANTKUNGS</text>
+    <text x="454" y="112" fill="#232c52">ANTKUNGS</text>
+    <text x="453" y="111" fill="#2a3564">ANTKUNGS</text>
+    <text x="452" y="110" fill="#313e76">ANTKUNGS</text>
+    <text x="451" y="109" fill="#3a4a8c">ANTKUNGS</text>
+    <text x="450" y="108" fill="url(#neon)" filter="url(#glow)">ANTKUNGS</text>
+  </g>
 
   <!-- subtitle -->
   <text x="450" y="152" text-anchor="middle" font-family="'Courier New',monospace" font-size="20" fill="#8b949e">&lt;/&gt; Full-Stack Developer • IoT • AI Explorer &lt;/&gt;</text>

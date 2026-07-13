@@ -6,7 +6,12 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect x="1.5" y="1.5" width="457" height="167" rx="14" fill="#0d1117" stroke="url(#g6)" stroke-width="2.5" filter="url(#f6)"/>
+  <!-- 3D depth: dark extruded side + floor shadow behind the card -->
+  <ellipse cx="230.0" cy="164" rx="200.0" ry="6" fill="#000000" opacity="0.45"/>
+  <rect x="9" y="11" width="447" height="155" rx="14" fill="#04060c"/>
+  <rect x="6" y="8" width="447" height="155" rx="14" fill="#080b14" stroke="#1b2233" stroke-width="1"/>
+  <rect x="1.5" y="1.5" width="447" height="155" rx="14" fill="#0d1117" stroke="url(#g6)" stroke-width="2.5" filter="url(#f6)"/>
+  <path d="M18 4.5 H430" stroke="#ffffff" stroke-width="1" opacity="0.14" stroke-linecap="round"/>
   <circle cx="428" cy="28" r="4" fill="#00f0ff">
     <animate attributeName="opacity" values="1;0.15;1" dur="1.8s" repeatCount="indefinite"/>
   </circle>
