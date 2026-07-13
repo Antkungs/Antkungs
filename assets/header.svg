@@ -44,8 +44,16 @@
     <animate attributeName="x" values="450;250;250;450" dur="6s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- the ant, walking... -->
-  <text y="212" font-size="20">🐜<animate attributeName="x" values="-40;940" dur="14s" repeatCount="indefinite"/></text>
-  <!-- ...and the shadow hound following -->
-  <text y="214" font-size="24">🐕‍🦺<animate attributeName="x" values="-140;840" dur="14s" repeatCount="indefinite"/></text>
+  <!-- a little hand-drawn ant, marching across -->
+  <g>
+    <animateMotion dur="16s" repeatCount="indefinite" path="M -60 204 L 960 204"/>
+    <g stroke="url(#neon)" fill="url(#neon)" stroke-width="1.6" stroke-linecap="round">
+      <ellipse cx="-9" cy="0" rx="4.5" ry="3" stroke="none"/>
+      <circle cx="-1" cy="0" r="3" stroke="none"/>
+      <circle cx="6" cy="-1" r="3.4" stroke="none"/>
+      <path d="M-3 1 l-4 5 M-1 1 l0 6 M1 1 l4 5 M-4 -1 l-5 4 M2 -1 l5 4" fill="none"/>
+      <path d="M8 -4 l3 -4 M5 -4 l-1 -5" fill="none"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="0.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
 </svg>
