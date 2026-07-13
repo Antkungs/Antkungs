@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" role="img" aria-label="Antkungs — Full-Stack, IoT, AI">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2079">
+        <animate attributeName="stop-color" values="#ff2079;#00f0ff;#a742f5;#ffde59;#ff2079" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a742f5">
+        <animate attributeName="stop-color" values="#a742f5;#ff2079;#00f0ff;#a742f5" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#ffde59;#ff2079;#00f0ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="230" rx="14" fill="#0d1117"/>
+
+  <!-- twinkling stars -->
+  <circle cx="80" cy="40" r="2" fill="#ffffff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="180" r="1.5" fill="#00f0ff"><animate attributeName="opacity" values="1;0.15;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="320" cy="30" r="2" fill="#ff2079"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="560" cy="45" r="1.8" fill="#ffffff"><animate attributeName="opacity" values="0.9;0.1;0.9" dur="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="700" cy="170" r="2.2" fill="#a742f5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="830" cy="60" r="1.6" fill="#ffde59"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="200" r="1.4" fill="#00f0ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="120" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+
+  <!-- name -->
+  <text x="450" y="108" text-anchor="middle" font-family="'Segoe UI Black','Arial Black',sans-serif" font-weight="900" font-size="68" letter-spacing="8" fill="url(#neon)" filter="url(#glow)">ANTKUNGS</text>
+
+  <!-- subtitle -->
+  <text x="450" y="152" text-anchor="middle" font-family="'Courier New',monospace" font-size="20" fill="#8b949e">&lt;/&gt; Full-Stack Developer • IoT • AI Explorer &lt;/&gt;</text>
+
+  <!-- animated underline -->
+  <rect x="250" y="168" width="400" height="3" rx="1.5" fill="url(#neon)">
+    <animate attributeName="width" values="0;400;400;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="450;250;250;450" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- the ant, walking... -->
+  <text y="212" font-size="20">🐜<animate attributeName="x" values="-40;940" dur="14s" repeatCount="indefinite"/></text>
+  <!-- ...and the shadow hound following -->
+  <text y="214" font-size="24">🐕‍🦺<animate attributeName="x" values="-140;840" dur="14s" repeatCount="indefinite"/></text>
+</svg>

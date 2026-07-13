@@ -1,5 +1,5 @@
-<!-- 🌊 Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Antkungs&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descAlign=50" width="100%"/>
+<!-- ⚡ Custom Neon Banner (hand-crafted animated SVG — มด 🐜 เดินนำ หมา 🐕‍🦺 วิ่งตาม) -->
+<img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/header.svg" width="100%" alt="Antkungs neon banner"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&pause=800&color=BD93F9&lines=Hi+There!+%F0%9F%91%8B;I'm+Ant!;Full-Stack+Developer+%F0%9F%9A%80;IoT+%26+AI+Explorer+%F0%9F%A4%96" />
@@ -30,7 +30,7 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider">
 
 ## 🚀 What I've Been Building
 
@@ -45,7 +45,7 @@
 | 🕷️ | **Web Automation Pipelines** — scraping → clean → Google Sheets, fully scheduled | `Selenium` `Python` |
 | 🕹️ | **IoT Arcade Machine** — physical free-kick game on Raspberry Pi | `RPi` `MCP23017` `PyGame` |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider">
 
 ## 💻 My Tech Stack
 
@@ -77,7 +77,7 @@
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)  ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider">
 
 ## 📌 Featured Repo
 
@@ -112,7 +112,9 @@
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3d contribution graph"/>
 </div>
 
-## 🐍 Contribution Snake
+## 🕹️ Arcade Zone
+
+> contribution graph ของผมโดนทั้งงูเลื้อยกิน... และ Pac-Man ไล่งับ 👾
 
 <div align="center">
   <picture>
@@ -121,6 +123,28 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Antkungs/Antkungs/output/github-snake.svg"/>
   </picture>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antkungs/Antkungs/pacman-output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antkungs/Antkungs/pacman-output/pacman-contribution-graph.svg"/>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Antkungs/Antkungs/pacman-output/pacman-contribution-graph.svg"/>
+  </picture>
+</div>
+
+## 🃏 Bonus Cards
+
+<details>
+  <summary><b>👉 คลิกเพื่อเปิดการ์ดลับ — Profile Summary Cards ✨</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antkungs&theme=dracula" width="95%" alt="profile details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antkungs&theme=dracula" width="45%" alt="repos per language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antkungs&theme=dracula" width="45%" alt="most commit language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antkungs&theme=dracula" width="45%" alt="stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Antkungs&theme=dracula&utcOffset=7" width="45%" alt="productive time"/>
+  </div>
+</details>
 
 ## 💬 Random Dev Quote & Joke
 
