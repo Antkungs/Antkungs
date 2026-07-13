@@ -79,31 +79,20 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider">
 
-## 📌 Featured Repo
+## 📊 My Stats
 
 <div align="center">
-  <a href="https://github.com/Antkungs/ffp-gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antkungs&repo=ffp-gateway&theme=dracula&hide_border=false" alt="ffp-gateway"/>
-  </a>
-</div>
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antkungs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antkungs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="languages graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antkungs&theme=dracula" width="95%" alt="profile details"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Antkungs&theme=dracula&hide_border=false" height="170" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antkungs&theme=dracula" width="45%" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antkungs&theme=dracula" width="45%" alt="most commit language"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Antkungs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antkungs&theme=dracula&hide_border=false&area=true" width="95%" alt="activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antkungs&theme=dracula" width="45%" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Antkungs&theme=dracula&utcOffset=7" width="45%" alt="productive time"/>
 </div>
 
 ## 🏔️ 3D Contribution Graph
@@ -132,17 +121,16 @@
   </picture>
 </div>
 
-## 🃏 Bonus Cards
+## 🎁 Easter Egg
 
 <details>
-  <summary><b>👉 คลิกเพื่อเปิดการ์ดลับ — Profile Summary Cards ✨</b></summary>
+  <summary><b>👉 อย่ากดถ้ายังไม่พร้อม... 😼</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antkungs&theme=dracula" width="95%" alt="profile details"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antkungs&theme=dracula" width="45%" alt="repos per language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antkungs&theme=dracula" width="45%" alt="most commit language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antkungs&theme=dracula" width="45%" alt="stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Antkungs&theme=dracula&utcOffset=7" width="45%" alt="productive time"/>
+    <h3>🎉 ยินดีด้วย! คุณเจอรังมดลับ 🐜</h3>
+    <p>คุณคือผู้บุกรุกรังมดคนที่...</p>
+    <img src="https://count.getloli.com/get/@Antkungs?theme=moebooru" alt="secret visitor counter"/>
+    <p><i>"เดินเงียบในเงา สร้างอาณาจักรทีละก้าว"</i> 🐕‍🦺</p>
   </div>
 </details>
 
