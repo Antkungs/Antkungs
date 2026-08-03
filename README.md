@@ -48,6 +48,8 @@ fun_fact:  talks to his AI pair-programmer more than to humans
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/ai-experiments.svg?v=4" width="49%" alt="AI Experiments"/>
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/automation.svg?v=4" width="49%" alt="Web Automation Pipelines"/>
   <img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/iot-arcade.svg?v=4" width="49%" alt="IoT Arcade Machine"/>
+  <a href="https://antkungs.github.io/meet-halfway/"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/meet-halfway.svg?v=1" width="49%" alt="Meet Halfway — fair meeting-point finder (LIVE)"/></a>
+  <a href="https://antkungs.github.io/party-drink-hub/"><img src="https://raw.githubusercontent.com/Antkungs/Antkungs/main/assets/projects/party-hub.svg?v=1" width="49%" alt="Party Drink Hub — pixel party games (LIVE)"/></a>
 </div>
 
 ## Example Projects
